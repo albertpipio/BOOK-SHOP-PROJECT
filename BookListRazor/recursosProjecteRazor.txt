@@ -1,0 +1,6 @@
+NuGet Packages in ASP.NET Core 6+
+
+Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (per refrescar canvis sense tancar l'aplicació)
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools (per fer el Migration)
